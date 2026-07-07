@@ -1,4 +1,5 @@
 import React from "react";
+import {commandRegistry} from "../lib/commands"
 
 export default function HomePage(){
   return(
